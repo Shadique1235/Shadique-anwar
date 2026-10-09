@@ -144,6 +144,25 @@
 
 <div align="center">
 
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/shadique-anwar">
+  <img src="https://img.shields.io/badge/GitHub-shadique--anwar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.instagram.com/_the_shadiqueiitj_/">
+  <img src="https://img.shields.io/badge/Instagram-@_the_shadiqueiitj_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+
 ### 💡 "Learn. Build. Analyze. Repeat."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" alt="Footer Banner"/>
